@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FinishTask_1/1.0.0": {
+        "runtime": {
+          "FinishTask_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinishTask_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

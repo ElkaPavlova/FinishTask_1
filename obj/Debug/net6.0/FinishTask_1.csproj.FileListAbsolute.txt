@@ -1,0 +1,15 @@
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/bin/Debug/net6.0/FinishTask_1
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/bin/Debug/net6.0/FinishTask_1.deps.json
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/bin/Debug/net6.0/FinishTask_1.runtimeconfig.json
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/bin/Debug/net6.0/FinishTask_1.dll
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/bin/Debug/net6.0/FinishTask_1.pdb
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.csproj.AssemblyReference.cache
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.AssemblyInfoInputs.cache
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.AssemblyInfo.cs
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.csproj.CoreCompileInputs.cache
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.dll
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/refint/FinishTask_1.dll
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.pdb
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/FinishTask_1.genruntimeconfig.cache
+/Users/elka/учеба/Контрольная работа №1/Контрольная/FinishTask_1/obj/Debug/net6.0/ref/FinishTask_1.dll
